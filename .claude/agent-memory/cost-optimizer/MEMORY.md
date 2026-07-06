@@ -1,0 +1,3 @@
+- [S3 Versioning Cost Issue](s3-versioning.md) — versioning enabled storing multiple object versions unnecessarily
+- [CloudFront Price Class Opportunity](cloudfront-price-class.md) — PriceClass_200 can be reduced to PriceClass_100 for static portfolio site
+- [Cache Policy Configuration](cache-policy.md) — Managed-CachingOptimized being used; verify TTLs are optimized for static assets

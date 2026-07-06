@@ -1,0 +1,2 @@
+- [Portfolio infra architecture & IAM-in-workflow gap](project_portfolio_infra.md) — S3+CloudFront+OIDC deploy role hardcoded in deploy.yml, not in Terraform
+- [Recurring terraform/main.tf gaps](pattern_recurring_tf_gaps.md) — checklist of specific missing controls (encryption, logging, headers policy, backend) found 2026-07-06
